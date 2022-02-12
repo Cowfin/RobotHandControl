@@ -1,5 +1,9 @@
 # RobotHandControl
-Control a robotic hand remotely
+Control a robotic hand remotely using any webcam, Raspberry pi, and servo motors
+
+# Example video
+
+https://user-images.githubusercontent.com/21192247/153690874-52e6c2b2-05ce-47e7-a650-60e73d0ecfe7.mp4
 
 
 
